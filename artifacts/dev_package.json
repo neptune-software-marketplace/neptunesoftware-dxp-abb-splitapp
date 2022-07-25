@@ -1,0 +1,47 @@
+{
+	"id": "A867CD37-1A0C-ED11-B47A-000D3AB2359F",
+	"createdAt": "2022-07-25T13:03:47.340Z",
+	"createdBy": "kristin.eliassen@neptune-software.com",
+	"git": {
+		"targetServers": [],
+		"remote": "https://github.com/neptune-software-marketplace/neptunesoftware-dxp-abb-splitapp",
+		"testServers": []
+	},
+	"name": "neptunesoftware-dxp-abb-splitapp",
+	"description": null,
+	"ver": "22.7.25.134",
+	"enableCICD": true,
+	"apps": [
+		{
+			"id": "81E3C6AD-7C7C-4E77-9BBD-8617C15C9A5B",
+			"ver": "22.7.25.154",
+			"application": "splitapp",
+			"title": "UTIL",
+			"description": "Split App Template"
+		}
+	],
+	"api": [],
+	"odataMock": [],
+	"odataSource": [],
+	"dictionary": [],
+	"jsclass": [],
+	"jsscript_group": [],
+	"theme": [],
+	"pdf": [],
+	"rulesengine": [],
+	"reports": [],
+	"api_authentication": [],
+	"api_group": [],
+	"tile": [],
+	"category": [],
+	"launchpad": [],
+	"certificates": [],
+	"role": [],
+	"systems": [],
+	"doc": [],
+	"wf_notifications": [],
+	"wf_definition": [],
+	"department": [],
+	"script_scheduler": [],
+	"connector": []
+}
